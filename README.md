@@ -45,7 +45,5 @@ I created various visualizations to showcase campaign performance:
 
 These visualizations provide actionable insights into which campaigns were successful and which areas need improvement.
 
-## Contributing
 
-Contributions are welcome! If you have ideas for enhancements or want to report issues, please email @ yuvarajspt1998@gmail.com or submit a pull request.
 
