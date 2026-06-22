@@ -7,20 +7,7 @@ Welcome to my marketing campaign performance analysis project! As a data scienti
 ## Features
 
 - Analyzed marketing campaign data to assess performance.
-- Created visualizations to represent campaign response rates and trends.
-
-## Getting Started
-
-### Prerequisites
-
-Before you begin, make sure you have the following installed:
-- Python (if applicable)
-- Power BI (if applicable)
-
-### Installation
-
-1. Clone this repository to your local machine.
-2. Open the project folder in [Power BI / Jupyter Notebook].
+- Created visualizations to represent campaign response rates and trends
 
 ## Data
 
